@@ -4,3 +4,5 @@ this add in branch develop
 is this 'OK' ?
 
 this line added in branch {develop}
+
+this line added in branch {feature-2}
