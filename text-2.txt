@@ -2,3 +2,10 @@ this is a file created in githup for test "pull"
 
 text3 - new
 
+
+this add in branch develop
+is this 'OK' ?
+
+this line added in branch {develop}
+
+this line added in branch {feature-2}
